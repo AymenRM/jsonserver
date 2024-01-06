@@ -1,0 +1,29 @@
+[
+    {
+        "description": "Un super vélo tout terrain",
+        "dispo": false,
+        "id": 1,
+        "prixArticle": 80,
+        "textAltImg": "Un vélo",
+        "titreArticle": "Vélo",
+        "urlImg": "https://via.placeholder.com/400x200"
+    },
+    {
+        "description": "Très bonne qualité d'écran",
+        "dispo": true,
+        "id": 2,
+        "prixArticle": 230,
+        "textAltImg": "Une télévision",
+        "titreArticle": "TV",
+        "urlImg": "https://via.placeholder.com/400x200"
+    },
+    {
+        "description": "Neuf, jamais utilisé",
+        "dispo": true,
+        "id": 3,
+        "prixArticle": 15,
+        "textAltImg": "Un jouet pour enfant",
+        "titreArticle": "Jouet",
+        "urlImg": "https://via.placeholder.com/400x200"
+    }
+]
